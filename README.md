@@ -1,5 +1,5 @@
 # hiro-ai
-'''
+```
 hiro-ai/
 ├── README.md
 ├── LICENSE
@@ -48,7 +48,7 @@ hiro-ai/
     ├── diary_of_hiro.json
     ├── mood_logs/
     └── audio_logs/
-'''
+```
 
 ⸻
 
